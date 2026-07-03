@@ -40,7 +40,7 @@ python tft_kfold_cv_pipeline.py
 Paired t-test: t(4) = 36.4, p = 3.4 × 10⁻⁶
 
 ## Citation
-Cite the out paper:
+Cite the our paper:
 
 Attention-Augmented Temporal Fusion Transformer for Short-Horizon Hypoglycemia Prediction in Type 1 Diabetes,
 Endocrine Practice,
