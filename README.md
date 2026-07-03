@@ -40,6 +40,14 @@ python tft_kfold_cv_pipeline.py
 Paired t-test: t(4) = 36.4, p = 3.4 × 10⁻⁶
 
 ## Citation
-If you use this code, please also cite the dataset:
-Rodriguez-Leon et al. (2023). T1DiabetesGranada. *Scientific Data*, 10, 916.
-https://doi.org/10.1038/s41597-023-02737-4
+Cite the out paper:
+
+Attention-Augmented Temporal Fusion Transformer for Short-Horizon Hypoglycemia Prediction in Type 1 Diabetes,
+Endocrine Practice,
+Volume 32, Issue 4, Supplement,
+2026,
+Page S336,
+ISSN 1530-891X,
+https://doi.org/10.1016/j.eprac.2026.03.018.
+(https://www.sciencedirect.com/science/article/pii/S1530891X26008414)
+
