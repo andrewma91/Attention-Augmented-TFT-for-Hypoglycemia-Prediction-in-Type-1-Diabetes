@@ -1,7 +1,8 @@
 # Attention-Augmented-TFT-for-Hypoglycemia-Prediction-in-Type-1-Diabetes
 
-Code for the paper: *Attention-Augmented Temporal Fusion Transformer for Short-Horizon Hypoglycemia Prediction in Type 1 Diabetes
-https://doi.org/10.1016/j.eprac.2026.03.018* 
+Code for the paper: *Attention-Augmented Temporal Fusion Transformer for Short-Horizon Hypoglycemia Prediction in Type 1 Diabetes* 
+
+https://doi.org/10.1016/j.eprac.2026.03.018
 
 ## Dataset
 This code uses the T1DiabetesGranada dataset (Rodriguez-Leon et al., 2023, *Scientific Data*). Access must be requested via Zenodo: https://zenodo.org/records/10050944
