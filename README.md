@@ -22,9 +22,9 @@ You must download it yourself and agree to their terms before running this code.
 
 **Single split training + evaluation:**
 ```bash
-# 1. Set DATA_DIR in tft_hypoglycemia_pipeline_FINAL.py to your dataset path
+# 1. Set DATA_DIR in tft_hypoglycemia_pipeline.py to your dataset path
 # 2. Run on Kaggle (T4 GPU recommended) or Colab:
-python tft_hypoglycemia_pipeline_FINAL.py
+python tft_hypoglycemia_pipeline.py
 ```
 
 **5 split cross validation:**
